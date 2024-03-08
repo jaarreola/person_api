@@ -10,3 +10,4 @@ EXPOSE 80
 
 ENV NAME world
 
+CMD["python", "app.py"]
